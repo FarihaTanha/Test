@@ -1,0 +1,4 @@
+Git bash command
+git add .
+git commit -m "address"
+git push
